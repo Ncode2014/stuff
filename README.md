@@ -1,7 +1,5 @@
-
-## Kumpulan Preset
 # narima Random Preset 
-# Soon released
+__Soon released__
 
 ## Speaker Series
 ```
