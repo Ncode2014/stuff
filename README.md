@@ -9,3 +9,11 @@ J+ Adalah Preset Yang Dibuat Khusus Buat JAPAN SONG Lebih fokus ke vocal dan mid
 GP+ Adalah Preset PUBG Yang Fokus Ke Bass,Mid
 YT+ Adalah Preset Buat Youtube 
 ```
+
+### Normal Preset
+
+# Adalah Preset yang lebih di peruntukan buat ningkatin bass
+
+```
+EQ+ For Music Player cocok untuk Peruntukannya, untuk Extra bass 
+```
