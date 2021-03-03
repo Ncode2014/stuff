@@ -17,3 +17,10 @@ YT+ Adalah Preset Buat Youtube
 ```
 EQ+ For Music Player cocok untuk Peruntukannya, untuk Extra bass 
 ```
+
+## Headset Preset
+```
+DBASS Series Adalah Preset Buat Bass
+DVoice Adalah Preset Buat Suara/Vocal
+DNormal Adalah Preset Paling Normal artinya pass
+```
