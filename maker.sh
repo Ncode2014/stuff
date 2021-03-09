@@ -61,6 +61,8 @@ wget https://newtrackon.com/api/http --output-document=http1.txt
 sed -i '$!N; /^\(.*\)\n\1$/!P; D' http1.txt
 wget https://newtrackon.com/api/udp --output-document=udp1.txt
 sed -i '$!N; /^\(.*\)\n\1$/!P; D' udp1.txt
+wget https://nitinsharma.webs.com/tracker%20list.txt --output-document=7p.txt
+sed -i '$!N; /^\(.*\)\n\1$/!P; D' 7p.txt
 
 clear
 echo "grabbing shit has been dOne now shit now"
