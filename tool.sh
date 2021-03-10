@@ -31,6 +31,7 @@ echo -e $b  "3.Bersih - Bersih${enda}"
 echo -e $b  "4.Cek Github kondisi${enda}"
 echo -e $b  "5.Cek Github log${enda}"
 echo -e $b  "6.Cek perbedaan${enda}"
+echo -e $b  "7.Wajib Install"
 echo "ketik no 7 buat exit ini tools"
 echo "================================================="
 echo -n "Masukan Menu Tools Nya Gan Pilih [1-6] : " 
@@ -46,6 +47,8 @@ fi
 if [ $Pilih -eq "2" ];then
 echo "================================================="
 bash maker.sh
+sleep 15
+python trscrapper.py
 echo "================================================="
 echo "";
 fi
@@ -78,5 +81,13 @@ echo "================================================="
 cd Output && cp *.txt ../
 git diff
 echo "================================================="
+echo "";
+fi
+
+if [ $Pilih -eq "7" ];then
+echo "installer tool"
+apt install python -y
+pip install -r requirements.txt
+echo "done"
 echo "";
 fi
