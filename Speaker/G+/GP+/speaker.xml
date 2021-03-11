@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="65640" value="100" />
+    <int name="65642" value="50" />
+    <string name="65591;65592;65593">Select impulse response file</string>
+    <int name="65641" value="20" />
+    <boolean name="65589" value="false" />
+    <boolean name="65643" value="true" />
+    <int name="65602" value="50" />
+    <boolean name="65604" value="true" />
+    <boolean name="65603" value="false" />
+    <int name="65606" value="80" />
+    <int name="65628" value="62" />
+    <int name="65605" value="100" />
+    <boolean name="65627" value="false" />
+    <int name="65608" value="120" />
+    <int name="65607" value="900" />
+    <int name="65629" value="52" />
+    <boolean name="36868" value="true" />
+    <string name="65596">9.5;8.4;1.5;3.4;3.4;3.4;3.4;-11.7;-11.7;-11.6;</string>
+    <boolean name="65595" value="true" />
+    <boolean name="65631" value="true" />
+    <boolean name="65597" value="false" />
+    <int name="65630" value="57" />
+    <boolean name="65633" value="true" />
+    <int name="65632" value="48" />
+    <boolean name="65635" value="true" />
+    <int name="65634" value="20" />
+    <boolean name="65637" value="true" />
+    <int name="65636" value="50" />
+    <int name="65639" value="80" />
+    <int name="65638" value="39" />
+    <int name="65609" value="90" />
+</map>
