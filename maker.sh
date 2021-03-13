@@ -63,7 +63,10 @@ wget https://newtrackon.com/api/udp --output-document=udp1.txt
 sed -i '$!N; /^\(.*\)\n\1$/!P; D' udp1.txt
 wget https://nitinsharma.webs.com/tracker%20list.txt --output-document=7p.txt
 sed -i '$!N; /^\(.*\)\n\1$/!P; D' 7p.txt
-
+wget https://raw.githubusercontent.com/netadmins-addon/torrent_tracker_list/main/torrent_tracker_list.txt
+wget https://www.torrentoyunindir.com/tracker.txt --output-document=op9.txt
+sed -i '$!N; /^\(.*\)\n\1$/!P; D' op9.txt
+wget https://torrends.to/torrent-tracker-list/?download=latest --output-document=last.txt
 clear
 echo "grabbing shit has been dOne now shit now"
 
