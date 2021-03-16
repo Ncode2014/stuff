@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# source from https://github.com/masterofthesith/megadown/blob/master/megadown
 VERSION="2.0"
 
 HERE=$(dirname "$0")
