@@ -324,8 +324,7 @@ while true; do
 	esac
 done
 
-yen=$(echo $1 | sed 's|#|!|g' | sed 's|file/|#!|g')
-p1=$(trim $(urldecode "$yen"))
+p1=$(trim $(urldecode "$1"))
 
 if [[ "$p1" =~ ^http ]] || [[ "$p1" =~ ^mega:// ]]; then
 	link="$p1"
