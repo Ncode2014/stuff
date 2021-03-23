@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all
 wget https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt
 
 # delete anime stuff
-rm -f *AT*.txt
+# rm -f *AT*.txt
 
 # Tracker Normal
 wget https://ngosang.github.io/trackerslist/trackers_best.txt
