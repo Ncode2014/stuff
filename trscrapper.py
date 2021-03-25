@@ -65,11 +65,11 @@ print("Writing to file ...")
 c = ""
 for t in trackers:
     c = c + t + "\n"
-f = open('trackers.txt', 'w')
+f = open('trackerss1.txt', 'w')
 f.write(c.strip())
 f.close()
 
 print("DONE. SCRAPPING COMPLETE. >>> Press ENTER key to continue <<<")
 x = input()
-os.system("trackers.txt")
+os.system("trackerss1.txt")
 exit()
