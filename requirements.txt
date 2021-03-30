@@ -46,7 +46,8 @@ pytz
 qrcode
 rarfile
 requests
-scipy
+git+https://github.com/numpy/numpy
+git+https://github.com/scipy/scipy
 git+https://github.com/Ncode2014/search-engine-parser
 git+https://github.com/ytdl-org/youtube-dl
 speedtest-cli
